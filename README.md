@@ -12,10 +12,15 @@
 - 📫 How to reach me **luis.yauri159@gmail.com**
 
 <h3 align="left">My projects:</h3>
+
 - Free To Play Game Database: [Web in Angular](https://free-to-play-game-database.web.app/free-games) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=0%3A1&node-id=2-7&viewport=146%2C69%2C0.26&scaling=scale-down)
+
 - IPWHOIS.IO: [Web in React](https://ipwhois-io.web.app/home) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=101%3A2&node-id=101-4&viewport=394%2C413%2C0.46&scaling=contain)
+
 - Testimonial API: [Web in React](https://testimonial-api-tool.web.app/home) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=134%3A2&node-id=165-4&viewport=413%2C262%2C0.27&scaling=min-zoom)
+
 - SIGECA: [Web in React](https://sigeca-frontend.web.app/auth/login)
+
 - Rick and Morty API: [Web in React](https://portfolio-rick-morty.web.app/characters)
 
 <h3 align="left">Connect with me:</h3>
