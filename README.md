@@ -15,6 +15,8 @@
 
 - DIGITAL AGENCY WEBSITE FREEBIE: [Web in Vite](https://luisyauri1.github.io/digital-agency-website-freebie/)
 
+- RESPONSIVE WEB DESIGN: [Web in Gulp](https://luisyauri1.github.io/responsive-web-design/)
+
 - Free To Play Game Database: [Web in Angular](https://free-to-play-game-database.web.app/free-games) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=0%3A1&node-id=2-7&viewport=146%2C69%2C0.26&scaling=scale-down)
 
 - IPWHOIS.IO: [Web in React](https://ipwhois-io.web.app/home) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=101%3A2&node-id=101-4&viewport=394%2C413%2C0.46&scaling=contain)
