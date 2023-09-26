@@ -21,8 +21,6 @@
 
 - IPWHOIS.IO: [Web in React](https://ipwhois-io.web.app/home) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=101%3A2&node-id=101-4&viewport=394%2C413%2C0.46&scaling=contain)
 
-- Testimonial API: [Web in React](https://testimonial-api-tool.web.app/home) | [Figma](https://www.figma.com/proto/E1ebAxHJD2f34osQSjznMQ/Portafolio?page-id=134%3A2&node-id=165-4&viewport=413%2C262%2C0.27&scaling=min-zoom)
-
 - SIGECA: [Web in React](https://sigeca-frontend.web.app/auth/login)
 
 - Rick and Morty API: [Web in React](https://portfolio-rick-morty.web.app/characters)
