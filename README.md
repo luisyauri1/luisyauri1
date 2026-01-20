@@ -23,7 +23,7 @@
 
 - SIGECA: [Web in React](https://sigeca-frontend.web.app/auth/login)
 
-- Rick and Morty API: [Web in React](https://portfolio-rick-morty.web.app/characters)
+- Rick and Morty API: [Web in React](https://luisyauri1.github.io/react-rick-morty-explorer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
