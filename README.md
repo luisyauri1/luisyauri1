@@ -25,7 +25,7 @@
 
 - Rick and Morty API: [Web in React](https://luisyauri1.github.io/react-rick-morty-explorer/)
 
-- Moderation & Trust Console: [Web in React](https://luisyauri1.github.io/auth/login/)
+- Moderation & Trust Console: [Web in React](https://luisyauri1.github.io/react-moderation-dashboard/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
